@@ -1,0 +1,14 @@
+doc/build/Makefile
+doc/build/config.log
+doc/build/config.status
+doc/build/orpsoc.aux
+doc/build/orpsoc.cp
+doc/build/orpsoc.cps
+doc/build/orpsoc.fn
+doc/build/orpsoc.ky
+doc/build/orpsoc.log
+doc/build/orpsoc.pg
+doc/build/orpsoc.toc
+doc/build/orpsoc.tp
+doc/build/orpsoc.vr
+
